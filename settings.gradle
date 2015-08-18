@@ -1,1 +1,1 @@
-include ':app', ':trackingring'
+include ':sample', ':library'
