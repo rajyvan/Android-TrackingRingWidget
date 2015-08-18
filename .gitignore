@@ -1,0 +1,16 @@
+.gradle
+/local.properties
+.idea/
+*.iml
+.DS_Store
+/build
+/captures
+
+# GitHub generated
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+*.log
