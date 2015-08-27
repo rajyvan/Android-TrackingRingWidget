@@ -30,7 +30,7 @@ public class TrackingRingView extends ImageView {
 
     public void setDataSet(DataSet dataSet) {
         mDataSet = dataSet;
-        mDrawable = new OverlayedCircularProgressDrawable(mDataSet, 0.325f, getResources().getColor(android.R.color.holo_green_dark));
+        mDrawable = new OverlayedCircularProgressDrawable(mDataSet, 0.325f);
         setImageDrawable(mDrawable);
     }
 

@@ -41,10 +41,6 @@ public class OverlayedCircularProgressDrawable extends Drawable {
      */
     private float mInnerCircleScale;
     /**
-     * Inner circle color
-     */
-    private int mInnerColor;
-    /**
      * Dat set
      */
     private DataSet mDataSet;
@@ -57,10 +53,9 @@ public class OverlayedCircularProgressDrawable extends Drawable {
     private float mRingSpace;
     private Animator mAnimator;
 
-    public OverlayedCircularProgressDrawable(DataSet dataSet, float innerCircleScale, int innerColor) {
+    public OverlayedCircularProgressDrawable(DataSet dataSet, float innerCircleScale) {
         mDataSet = dataSet;
         mInnerCircleScale = innerCircleScale;
-        mInnerColor = innerColor;
 
         mArcElements = new RectF();
         mPaint = new Paint();
