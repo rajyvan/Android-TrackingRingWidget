@@ -2,6 +2,9 @@ Android-TrackingRingWidget
 ==========================
 It's a tracking activity ring widget like in Apple watch for Android.
 <p> You have to populate it with a given dataset object as desribed below. You can customize ring colors, icons and text values as you like.</p>
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--TrackingRingWidget-green.svg?style=flat)](https://android-arsenal.com/details/1/2399)
+
 <p> Feel free to contact me if you want some features or customization to be added.
 <br>
 <br>
