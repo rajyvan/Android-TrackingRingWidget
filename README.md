@@ -8,7 +8,7 @@ It's a tracking activity ring widget like in Apple watch for Android.
 <p> Feel free to contact me if you want some features or customization to be added.
 <br>
 <br>
-![Let's see below](/tracking.png)
+![Let's see below](/tracking.png?raw=true)
 
 Usage
 ==========================
